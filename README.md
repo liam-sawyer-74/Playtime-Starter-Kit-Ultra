@@ -1,2 +1,2 @@
 # Playtime-Starter-Kit-Ultra
-This is a versio  of Playtime starter kit but with more stuff
+This is a version  of Playtime starter kit but with more stuff
